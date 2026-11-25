@@ -1,0 +1,6 @@
+{
+  "name": "CookHub",
+  "description": "Modern cooking video and recipe discovery platform with a warm cream and orange design, featuring Home, Explore, Categories, Video Details, Creator Profile, Login/Signup, Creator Dashboard, and Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

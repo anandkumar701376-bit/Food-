@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CookHub</string>
+    <string name="app_tagline">Cook, Watch &amp; Share Culinary Craft</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_categories">Categories</string>
+    <string name="nav_studio">Creator</string>
+    <string name="nav_admin">Admin</string>
+    <string name="search_placeholder">Search videos, recipes, chefs, or ingredients…</string>
+    <string name="frontend_preview_badge">Frontend UI Preview</string>
+    <string name="auth_preview_notice">UI preview only — authentication and account storage are not connected yet.</string>
+</resources>
